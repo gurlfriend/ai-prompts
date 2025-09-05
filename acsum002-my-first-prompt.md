@@ -5,7 +5,7 @@
 - version: 1.0
 - date: 2025-09-05
 - tags: [summary, test]
-- model: gpt-4.1 (example)
+- model: (chatGPT)
 
 ## Prompt
 You are an assistant. Given a short abstract or paragraph, write one clear sentence that summarizes the main idea. Keep it under 20 words.
